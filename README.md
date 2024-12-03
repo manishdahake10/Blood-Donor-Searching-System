@@ -60,14 +60,30 @@ Once the system is running, you can access it via your web browser. Here's how y
 
 ### Output Screenshots
 
-**Search Donor Page**:<br>
-![Search Donor](https://github.com/manishdahake10/BloodDonorSearchSystem/assets/search_donor.png)<br><br>
+**Home page**
+![Capture1](https://github.com/user-attachments/assets/a43faa08-fd5d-4e04-86e0-728eba6545f9)<br><br>
 
-**Donor List Page**:<br>
-![Donor List](https://github.com/manishdahake10/BloodDonorSearchSystem/assets/donor_list.png)<br><br>
+**Donor List Page**
+![Home BDS_Bar](https://github.com/user-attachments/assets/afcf8326-6133-4a8e-b5ac-cc965d66c0ec)<br><br>
 
-**Add Donor Form**:<br>
-![Add Donor](https://github.com/manishdahake10/BloodDonorSearchSystem/assets/add_donor.png)<br><br>
+**User login Form**
+![UserLogin](https://github.com/user-attachments/assets/a5ee5b65-d02a-4f55-a380-59ab7d55687b)<br><br>
+
+**User Dashboard**
+![UserDashboard](https://github.com/user-attachments/assets/860ae567-8970-4791-accf-c1d9ab8c8bd3)
+<br><br>
+**User Detail**
+![UserDetail](https://github.com/user-attachments/assets/24b14ef4-da27-4e3c-b277-2da90f7dc1b9)<br><br>
+
+**User Info update**
+![UserUpdateInfo](https://github.com/user-attachments/assets/1cc9bc37-51c2-4a2a-8cdc-64789f7bef8d)<br><br>
+
+**Admin Login**
+![Admin Login](https://github.com/user-attachments/assets/0c88733c-263f-48c4-863e-68d6dd783be7)<br><br>
+
+**User Dashboard**
+![admindashboard](https://github.com/user-attachments/assets/d2e9202f-8594-4466-99fd-33997a10c7e5)<br><br>
+
 
 ## Code Structure
 The project consists of the following structure:
